@@ -1,0 +1,21 @@
+## Interface: 11304
+## Title: Power Raid
+## Notes: A tool to help classic wow raids track buffs and consumables
+## Author: psynct
+## Version: 3.2.3
+
+## SavedVariables: PowerRaid3DB
+
+Libs\embeds.xml
+Locale\Locales.xml
+HelperFunction.lua
+PowerRaidData.lua
+BuffsTab.lua
+PowerRaid.lua
+GUI.lua
+RaidFramesRenderer.lua
+ScanReportRowRenderer.lua
+RaidItemsTab.lua
+ConsumablesTab.lua
+TalentsTab.lua
+SettingsTab.lua
