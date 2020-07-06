@@ -2,7 +2,7 @@
 ## Title: Power Raid
 ## Notes: A tool to help classic wow raids track buffs and consumables
 ## Author: psynct
-## Version: 3.2.3
+## Version: 3.2.4
 
 ## SavedVariables: PowerRaid3DB
 
