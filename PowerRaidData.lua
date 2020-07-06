@@ -142,7 +142,7 @@ PowerRaidData.PaladinBuffs["Greater Blessing of Kings"] = {
     ["short"] = L["Kings"],
 }
 PowerRaidData.PaladinBuffs["Greater Blessing of Might"] = {
-    ["alts"] = {"25916", "25291"},
+    ["alts"] = {"25782", "25916", "19838", "25291"},
     ["castingClass"] = "PALADIN",
     ["excludedClasses"] = {"MAGE", "WARLOCK", "PRIEST"},
     ["faction"] = "Alliance",
@@ -152,7 +152,7 @@ PowerRaidData.PaladinBuffs["Greater Blessing of Might"] = {
     ["short"] = L["Might"],
 }
 PowerRaidData.PaladinBuffs["Greater Blessing of Wisdom"] = {
-    ["alts"] = {"25918", "25290"},
+    ["alts"] = {"25894", "25918", "19854", "25290"},
     ["castingClass"] = "PALADIN",
     ["excludedClasses"] = {"WARRIOR", "ROGUE"},
     ["faction"] = "Alliance",
